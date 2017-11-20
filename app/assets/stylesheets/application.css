@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+ <!-- Latest compiled and minified CSS -->
+.container {
+  width:  600px;
+  height:  100vh;
+}
+
+
